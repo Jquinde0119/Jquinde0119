@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jquinde0119
-- 👀 I’m interested in SQL and Dev Ops
-- 🌱 I’m currently learning SQL and AWS
+- 👀 I’m interested in Databases and Dev Ops
+- 🌱 I’m currently learning SQL, Python, HTML and AWS
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me email jquinde0119@outlook.com
 - 😄 Pronouns: He/Him
